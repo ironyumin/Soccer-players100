@@ -109,7 +109,8 @@ players = [
     {"name": "Lee Bum-young", "club": "Gangwon FC", "age": 34, "position": "GK", "league": "Other", "achievements": ["K League Veteran"]},
     {"name": "Dominic Solanke", "club": "Bournemouth", "age": 26, "position": "FW", "league": "Premier League", "achievements": ["FA Cup Winner with Chelsea U19", "England U17 World Cup Winner"]},
     {"name": "Darwin Núñez", "club": "Liverpool", "age": 24, "position": "FW", "league": "Premier League", "achievements": ["Premier League Rising Star", "Uruguay National Team"]},
-    {"name": "Brennan Johnson", "club": "Nottingham Forest", "age": 23, "position": "FW", "league": "Premier League", "achievements": ["Wales National Team Regular"]}
+    {"name": "Brennan Johnson", "club": "Nottingham Forest", "age": 23, "position": "FW", "league": "Premier League", "achievements": ["Wales National Team Regular"]},
+    {"name": "Rodrigo De Paul", "club": "Atlético Madrid", "age": 29, "position": "MF", "league": "La Liga", "achievements": ["Copa América Winner 2021", "Argentina National Team Regular"]},
 ]
 
 
