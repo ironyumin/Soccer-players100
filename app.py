@@ -31,7 +31,7 @@ players = [
     {"name": "Christian Pulisic", "club": "AC Milan", "age": 26, "position": "FW", "league": "Serie A", "achievements": ["Champions League Winner 2021"]},
     {"name": "Luis Suárez", "club": "Inter Miami", "age": 37, "position": "FW", "league": "Other", "achievements": ["La Liga Golden Boot", "Copa América Winner"]},
     {"name": "Cristiano Ronaldo", "club": "Al-Nassr", "age": 39, "position": "FW", "league": "Other", "achievements": ["5x Ballon d'Or", "Champions League Winner (x5)"]},
-    {"name": "Lionel Messi", "club": "Inter Miami", "age": 37, "position": "FW", "league": "Other", "achievements": ["8x Ballon d'Or", "World Cup Winner 2022"]}
+    {"name": "Lionel Messi", "club": "Inter Miami", "age": 37, "position": "FW", "league": "Other", "achievements": ["8x Ballon d'Or", "World Cup Winner 2022"]},
     {"name": "Kevin De Bruyne", "club": "Manchester City", "age": 33, "position": "MF", "league": "Premier League", "achievements": ["Premier League Champion", "UCL Winner 2023"]},
     {"name": "Bruno Fernandes", "club": "Manchester United", "age": 30, "position": "MF", "league": "Premier League", "achievements": ["UEFA Nations League Winner"]},
     {"name": "Martin Ødegaard", "club": "Arsenal", "age": 26, "position": "MF", "league": "Premier League", "achievements": ["Arsenal Captain"]},
