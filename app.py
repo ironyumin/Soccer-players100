@@ -106,7 +106,10 @@ players = [
     {"name": "Kasper Schmeichel", "club": "Nice", "age": 36, "position": "GK", "league": "Ligue 1", "achievements": ["Premier League Winner"]},
     {"name": "Walter Benítez", "club": "Nice", "age": 28, "position": "GK", "league": "Ligue 1", "achievements": ["Ligue 1 Starter"]},
     {"name": "Jo Hyeon-woo", "club": "Ulsan Hyundai", "age": 30, "position": "GK", "league": "Other", "achievements": ["2022 FIFA World Cup Star"]},
-    {"name": "Lee Bum-young", "club": "Gangwon FC", "age": 34, "position": "GK", "league": "Other", "achievements": ["K League Veteran"]}
+    {"name": "Lee Bum-young", "club": "Gangwon FC", "age": 34, "position": "GK", "league": "Other", "achievements": ["K League Veteran"]},
+    {"name": "Dominic Solanke", "club": "Bournemouth", "age": 26, "position": "FW", "league": "Premier League", "achievements": ["FA Cup Winner with Chelsea U19", "England U17 World Cup Winner"]},
+    {"name": "Darwin Núñez", "club": "Liverpool", "age": 24, "position": "FW", "league": "Premier League", "achievements": ["Premier League Rising Star", "Uruguay National Team"]},
+    {"name": "Brennan Johnson", "club": "Nottingham Forest", "age": 23, "position": "FW", "league": "Premier League", "achievements": ["Wales National Team Regular"]}
 ]
 
 
