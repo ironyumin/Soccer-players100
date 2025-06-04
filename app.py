@@ -124,7 +124,7 @@ def get_age_group(age):
 # UI
 st.set_page_config("Football Player Explorer", layout="centered")
 st.title("⚽ Explore Famous Active Footballers")
-
+st.warning("⚠️ 선수 정보가 일부 오래되었거나 다를 수 있습니다.")
 # Filters
 custom_order = ["Premier League", "La Liga", "Bundesliga", "Serie A", "Ligue 1", "Saudi Pro League", "MLS", "Other"]
 available_leagues = sorted(set(p["league"] for p in players), key=lambda x: custom_order.index(x) if x in custom_order else 999)
