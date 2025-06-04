@@ -51,7 +51,7 @@ players = [
     {"name": "Warren Zaïre-Emery", "club": "Paris Saint-Germain", "age": 19, "position": "MF", "league": "Ligue 1", "achievements": ["Ligue 1 Champion"]},
     {"name": "Marco Verratti", "club": "Al-Arabi", "age": 32, "position": "MF", "league": "Other", "achievements": ["EURO 2020 Winner"]},
     {"name": "Lee Kang-in", "club": "Paris Saint-Germain", "age": 23, "position": "MF", "league": "Ligue 1", "achievements": ["Asian Games Gold Medalist"]},
-    {"name": "Paik Seung-ho", "club": "Jeonbuk Hyundai", "age": 28, "position": "MF", "league": "Other", "achievements": ["K League Best XI"]}
+    {"name": "Paik Seung-ho", "club": "Jeonbuk Hyundai", "age": 28, "position": "MF", "league": "Other", "achievements": ["K League Best XI"]},
     {"name": "Virgil van Dijk", "club": "Liverpool", "age": 33, "position": "DF", "league": "Premier League", "achievements": ["Champions League Winner 2019"]},
     {"name": "William Saliba", "club": "Arsenal", "age": 24, "position": "DF", "league": "Premier League", "achievements": ["Arsenal Young Player of the Season"]},
     {"name": "Cristian Romero", "club": "Tottenham Hotspur", "age": 27, "position": "DF", "league": "Premier League", "achievements": ["World Cup Winner 2022"]},
@@ -71,7 +71,7 @@ players = [
     {"name": "Marquinhos", "club": "Paris Saint-Germain", "age": 30, "position": "DF", "league": "Ligue 1", "achievements": ["Multiple Ligue 1 Titles"]},
     {"name": "Lucas Hernández", "club": "Paris Saint-Germain", "age": 29, "position": "DF", "league": "Ligue 1", "achievements": ["World Cup Winner 2018"]},
     {"name": "Lee Ki-je", "club": "Suwon Samsung Bluewings", "age": 33, "position": "DF", "league": "Other", "achievements": ["K League Best XI"]},
-    {"name": "Seol Young-woo", "club": "Ulsan HD FC", "age": 26, "position": "DF", "league": "Other", "achievements": ["Asian Games Gold Medalist"]}
+    {"name": "Seol Young-woo", "club": "Ulsan HD FC", "age": 26, "position": "DF", "league": "Other", "achievements": ["Asian Games Gold Medalist"]},
     {"name": "Alisson Becker", "club": "Liverpool", "age": 31, "position": "GK", "league": "Premier League", "achievements": ["UEFA Champions League Winner 2019", "Premier League Winner 2020"]},
     {"name": "Ederson Moraes", "club": "Manchester City", "age": 30, "position": "GK", "league": "Premier League", "achievements": ["Premier League Winner", "EFL Cup Winner"]},
     {"name": "Hugo Lloris", "club": "Tottenham Hotspur", "age": 37, "position": "GK", "league": "Premier League", "achievements": ["World Cup Winner 2018"]},
@@ -87,6 +87,26 @@ players = [
     {"name": "Keylor Navas", "club": "Paris Saint-Germain", "age": 36, "position": "GK", "league": "Ligue 1", "achievements": ["Multiple UCL Titles"]},
     {"name": "Lee Seung-woo", "club": "Ulsan Hyundai", "age": 27, "position": "GK", "league": "Other", "achievements": ["K League Best XI"]},
     {"name": "Jo Hyeon-woo", "club": "Ulsan Hyundai", "age": 30, "position": "GK", "league": "Other", "achievements": ["2022 FIFA World Cup Star"]},
+    {"name": "Samir Handanović", "club": "Inter Milan", "age": 40, "position": "GK", "league": "Serie A", "achievements": ["Serie A Title", "UEFA Champions League Finalist"]},
+    {"name": "Rui Patrício", "club": "Roma", "age": 35, "position": "GK", "league": "Serie A", "achievements": ["UEFA Europa League Winner"]},
+    {"name": "Salvatore Sirigu", "club": "Napoli", "age": 36, "position": "GK", "league": "Serie A", "achievements": ["Serie A Champion"]},
+    {"name": "Mike Maignan", "club": "AC Milan", "age": 28, "position": "GK", "league": "Serie A", "achievements": ["Serie A Champion 2022"]},
+    {"name": "Lukáš Hrádecký", "club": "Bayer Leverkusen", "age": 34, "position": "GK", "league": "Bundesliga", "achievements": ["Bundesliga Team of the Season"]},
+    {"name": "André Onana", "club": "Bayern Munich", "age": 27, "position": "GK", "league": "Bundesliga", "achievements": ["CAF Player of the Year Nominee"]},
+    {"name": "Kevin Trapp", "club": "Eintracht Frankfurt", "age": 33, "position": "GK", "league": "Bundesliga", "achievements": ["Europa League Winner"]},
+    {"name": "Alexander Schwolow", "club": "SC Freiburg", "age": 31, "position": "GK", "league": "Bundesliga", "achievements": ["Bundesliga Consistent Starter"]},
+    {"name": "Frederik Rønnow", "club": "Union Berlin", "age": 31, "position": "GK", "league": "Bundesliga", "achievements": ["Bundesliga Starter"]},
+    {"name": "Robin Olsen", "club": "Lazio", "age": 34, "position": "GK", "league": "Serie A", "achievements": ["Consistent Serie A Starter"]},
+    {"name": "Benjamin Lecomte", "club": "Atlético Madrid", "age": 33, "position": "GK", "league": "La Liga", "achievements": ["Consistent La Liga Starter"]},
+    {"name": "Yassine Bounou (Bono)", "club": "Sevilla", "age": 32, "position": "GK", "league": "La Liga", "achievements": ["Europa League Winner"]},
+    {"name": "Álex Remiro", "club": "Real Sociedad", "age": 29, "position": "GK", "league": "La Liga", "achievements": ["Strong La Liga Starter"]},
+    {"name": "David Raya", "club": "Brentford", "age": 28, "position": "GK", "league": "Premier League", "achievements": ["Premier League Starter"]},
+    {"name": "Aaron Ramsdale", "club": "Arsenal", "age": 25, "position": "GK", "league": "Premier League", "achievements": ["England International"]},
+    {"name": "Nick Pope", "club": "Newcastle United", "age": 31, "position": "GK", "league": "Premier League", "achievements": ["England International"]},
+    {"name": "Kasper Schmeichel", "club": "Nice", "age": 36, "position": "GK", "league": "Ligue 1", "achievements": ["Premier League Winner"]},
+    {"name": "Walter Benítez", "club": "Nice", "age": 28, "position": "GK", "league": "Ligue 1", "achievements": ["Ligue 1 Starter"]},
+    {"name": "Jo Hyeon-woo", "club": "Ulsan Hyundai", "age": 30, "position": "GK", "league": "Other", "achievements": ["2022 FIFA World Cup Star"]},
+    {"name": "Lee Bum-young", "club": "Gangwon FC", "age": 34, "position": "GK", "league": "Other", "achievements": ["K League Veteran"]}
 ]
 
 
