@@ -163,4 +163,3 @@ if results:
         st.markdown(f"- {ach}")
 else:
     st.warning("No players match your filter. Try different options.")
-
